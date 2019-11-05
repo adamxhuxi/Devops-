@@ -1,2 +1,2 @@
 Hello this is second file for Git command
-
+adding again to check its come with modify message
