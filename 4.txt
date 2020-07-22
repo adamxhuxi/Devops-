@@ -1,1 +1,2 @@
 this is the fourth file for test
+to check for ghost
